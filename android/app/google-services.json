@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "187040794685",
+    "project_id": "medical-booking-app-df659",
+    "storage_bucket": "medical-booking-app-df659.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187040794685:android:e1d4114df475062af00254",
+        "android_client_info": {
+          "package_name": "com.mycompany.medicalbookingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4Fegra5oBZnjwu6rOw_m0SPM8PfWTvZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
